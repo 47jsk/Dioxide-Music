@@ -16,6 +16,9 @@ music bot written in dcjs v13 node.js
 
 ## Credits 
 THIS BOT IS MADE BY USING OLD BASE FILE OF AVON MUSIC BOT
+
 FULLY REVAMPED BY - 47jsk
+
 SUPPORT - https://discord.gg/DYqWnuqAKN
+
 DC- 47jsk
